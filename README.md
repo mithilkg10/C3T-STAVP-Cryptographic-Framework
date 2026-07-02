@@ -53,12 +53,4 @@ Simulated extrapolation of the architecture operating on AWS c6i.2xlarge Edge no
 ## 4. The Core Innovation
 The cybersecurity community rightfully rejects unproven, "proprietary" mathematics. STAVP's true innovation is **Orchestration**. We engineered a novel architecture combining battle-tested standards. By successfully decoupling the zk-STARK hardware bottleneck and utilizing volumetric MTD triggers, STAVP mathematically proves that post-quantum safety, AI evasion, and zero-knowledge privacy can co-exist in high-frequency environments.
 
----
 
-## 5. Visual Architecture Mockups
-
-### The C³T Cryptographic Pipeline (Backend)
-![C3T Pipeline Dashboard](assets/c3t_pipeline_dashboard.png)
-
-### The Trading Platform (Frontend)
-![CarbonEx Trading Platform](assets/carbonex_platform.png)
